@@ -34,3 +34,10 @@ The SHS is built with a refined architecture to support secure and scalable oper
 2. Implementation of robust security protocols for encrypted content management.
 3. Automated and user testing to ensure reliability and usability.
 4. Screencasts demonstrating system functionality and ease of use.
+
+**Contributors**
+1. Carter Vaughan: Edited the codebase, worked on the project overview, and contributed to screencasts.
+2. Aryan Yeole: Developed UML diagrams and CRC models, and contributed to screencasts.
+3. Justin Yi: Led coding efforts, recorded screencasts, and resolved technical issues.
+4. Aditya Sharma: Focused on requirements and user stories, and contributed to screencasts.
+5. Kaw Ra Wit: Designed the architecture, created the class diagram, and documented the project.
